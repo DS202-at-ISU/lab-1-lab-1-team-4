@@ -21,4 +21,9 @@ Submit a link to your repository on Canvas (only one submission per team) to sig
 “This is a line from RStudio”
 
 Experiences:
+
+12.1: Some people were not connected to git on their RStudio, so they had to connect their RStudio before they could continue.
+
+12.2: We just used the repository made for us in the lab.
+
 1. Took a while to understand commit and pulling changes
