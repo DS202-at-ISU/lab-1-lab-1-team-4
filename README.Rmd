@@ -22,3 +22,7 @@ Submit a link to your repository on Canvas (only one submission per team) to sig
 
 Experiences:
 1. Took a while to understand commit and pulling changes
+
+
+Difficulties:
+1.push
