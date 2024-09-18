@@ -29,5 +29,6 @@ Experiences:
 1. Took a while to understand commit and pulling changes
 
 
-Difficulties:
-1. had some difficulties with pushing and gaining an acess code that worked. 
+12.5: We could push relatively easily but we just needed an acess code to verify changes.
+
+12.6: No problems encountered here we each saw when there was a new line in RStudio
