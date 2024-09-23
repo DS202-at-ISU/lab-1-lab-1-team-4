@@ -43,5 +43,6 @@ Experiences:
 
 
 12.5: We could push relatively easily but we just needed an acess code to verify changes.
+1. Pushing info to GitHub was relatively simple if pull and commit worked
 
 12.6: No problems encountered here we each saw when there was a new line in RStudio
