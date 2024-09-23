@@ -25,6 +25,7 @@ Experiences:
 
 12.1: Some people were not connected to git on their RStudio, so they had to connect their RStudio before they could continue.
 
+1. Verifying identity with PAT took awhile to figure out but it worked well after
 
 12.2: We just used the repository made for us in the lab.
 
