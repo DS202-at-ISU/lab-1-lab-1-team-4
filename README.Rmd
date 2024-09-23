@@ -35,7 +35,7 @@ Experiences:
 
 1. We had a relative smooth time in cloning the GitHub Repository
 2. The Github was confusing at first but once we get the hang of it, everything went pretty smooth
-
+3. Being able to copy the GitHub repository link made this step fairly easy
 
 12.4 Make local changes, save, commit
 1. We struggled to commit the changes at first as we failed to staged our changes before committing
