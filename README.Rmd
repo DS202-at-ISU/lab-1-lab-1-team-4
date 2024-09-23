@@ -25,7 +25,7 @@ Experiences:
 
 12.1: Some people were not connected to git on their RStudio, so they had to connect their RStudio before they could continue.
 
-1. Verifying identity with PAT took awhile to figure out but it worked well after
+12.1: Verifying identity with PAT took awhile to figure out but it worked well after
 
 12.2: We just used the repository made for us in the lab.
 
@@ -39,6 +39,8 @@ Experiences:
 
 12.4 Make local changes, save, commit
 1. We struggled to commit the changes at first as we failed to staged our changes before committing
+2. Making changed was confusing at first, especially pulling and then having to commit and push
+
 
 12.5: We could push relatively easily but we just needed an acess code to verify changes.
 
