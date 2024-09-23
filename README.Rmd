@@ -28,6 +28,7 @@ Experiences:
 12.1: Verifying identity with PAT took awhile to figure out but it worked well after
 
 12.2: We just used the repository made for us in the lab.
+1. Making the repository was fine
 
 1. Took a while to understand commit and pulling changes
 
